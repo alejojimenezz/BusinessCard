@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="firstName">Alejandro</string>
+    <string name="lastName">Jiménez Zabala</string>
+    <string name="occupation">Programmer</string>
+    <string name="phone">(+57) 315 722 5866</string>
+    <string name="github">alejojimenezz</string>
+    <string name="gmail">alejandro.jz1312@gmail.com</string>
+</resources>
