@@ -7,4 +7,7 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="androidGreen">#3DDC84</color>
+    <color name="blueViolet">#843DDC</color>
+    <color name="cadmiumOrange">#DC843D</color>
 </resources>
